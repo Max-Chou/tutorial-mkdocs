@@ -1,0 +1,14 @@
+site_name: My Docs
+
+theme:
+  name: material
+
+plugins:
+  - macros
+
+extra:
+  price: 12.50
+  company:
+    name: Acme
+    address: ....
+    website: www.acme.com
