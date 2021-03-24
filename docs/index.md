@@ -20,3 +20,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Macros
 
 The price of the product is {{ price }}.
+
+## Update
+
+The name of new employee is {{ company.name }}.
